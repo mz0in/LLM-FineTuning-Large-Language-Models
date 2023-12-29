@@ -12,10 +12,6 @@
 - 🟠 YouTube: https://www.youtube.com/@RohanPaul-AI/featured
 - 👨🏻‍💼 LINKEDIN: https://www.linkedin.com/in/rohan-paul-b27285129/
 - ​👨‍🔧​ KAGGLE: https://www.kaggle.com/paulrohan2020
-- 👨‍💻 GITHUB: https://github.com/rohan-paul
-- 🤖 Substack : https://rohanpaul.substack.com/
-- 🧑‍🦰 FACEBOOK: https://www.facebook.com/rohanpaulai
-- 📸 INSTAGRAM: https://www.instagram.com/rohan_paul_2020/
 
 ---
 
@@ -34,14 +30,19 @@
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=J0RbOtLrJhQ&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=10&ab_channel=Rohan-Paul-AI) [Fine Tuning Phi 1_5 with PEFT and QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/FineTuning_phi-1_5_with_PRFT_LoRA.ipynb)
 
 
-- [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)
-
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=gNSw9JwGv4w&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&t=486s&ab_channel=Rohan-Paul-AI) [Fine-tune opt-6.7b with QLoRA while keeping some of the Model layers at full-precision of float32](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_opt_bnb_peft.ipynb)
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=QAY82UvrsHg&list=PLxqBkZuBynVTiTEvP6-GYf35yA6OqIN7Y&index=2&ab_channel=Rohan-Paul-AI) [Web scraping with Large Language Models (LLM)-AnthropicAI + LangChainAI](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Web%20scraping%20with%20Large%20Language%20Models%20(LLM)-AnthropicAI%20%2B%20LangChainAI.ipynb)
 
+---------------------------
 
-- [Mixtral_Chatbot_with_Gradio](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mixtral_Chatbot_with_Gradio)
+📌 [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)
+
+📌 [Mixtral Chatbot with Gradio](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mixtral_Chatbot_with_Gradio)
+
+📌 [togetherai api to run Mixtral](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb)
+
+📌  [Integrating TogetherAI with LangChain 🦙](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TogetherAI_API_with_LangChain.ipynb)
 
 
 ---------------------------
